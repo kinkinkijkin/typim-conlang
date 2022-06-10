@@ -1,0 +1,18 @@
+ / NUMERALITY
+'je - plural
+'be - individual/singular (ie specific member of a group, naming the group)
+'gee - plural definitive (explicitly plural)
+'kww - singular definitive (explicitly singular)
+
+ / CASING/PLACING
+'fw - adjectivising genitive; owner becomes adjective
+'fy - nounising genitive; owner becomes noun (not entirely sure usage)
+'si - adjectivising copula; replaces copula verb to make an adjective phrase
+'zu - accusative; also used in copula statements that aren't adjectivised
+'ko - nounizer; represents an adjective or adverb as a noun
+'bo - adverbiser; indicates that the action is being performed like this noun
+
+/ OTHERS
+'sa or 'za - negation; placed first, refers to the noun. placed later, refers to attachments preceeding
+'vi - reverence; noun is seen highly by speaker (not formal register, specifically reverent)
+'bii - definitive, non-default form; please use discrete word "bif" unless you need granularity afforded by an attachment (eg "The Great Samuel" but Samuel is just a dude, and The Great is distinct from Samuel)

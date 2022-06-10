@@ -1,0 +1,19 @@
+Gy - first-person singular pronoun, vague number, base form.
+gwm - first-person plural pronoun, vague-use, base form.
+Gym - first-person plural pronoun, total, base form. ("_We_ at SkyNet" but not "_We_ Americans")
+
+Ru - second-person singular or plural pronoun, base form.
+rom - second-person plural-only pronoun, vague-use, base form.
+Rim - second-person plural-only pronoun, total, base form. ("_You_ at SkyNet" but not "_You_ Americans")
+Rymm - second-person plural-only pronoun, non-total, base form. ("_You_ Americans" implying not every single american)
+
+bu - third-person pronoun, no definite number, vague-use, base form.
+bim - third-person pronoun, no definite number, total, base form.
+bymm - third-person pronoun, no definite number (plural implied), non-total, base form.
+
+Capitalization reflects suggested usage but is not mandatory in any level of speech.
+"vague-use" signifies that the pronoun is to be used when unsure or not being explicit.
+
+gwfim - "this"
+ryfid - "that", proximal, preferred default
+bufid - "that", distal, explicit usage only

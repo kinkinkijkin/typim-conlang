@@ -1,0 +1,30 @@
+all nouns and pronouns are modified in the same way.
+
+begin modification by supplying an apostrophe as suffix to the word, then
+add all modificative suffixes in a stack. all suffixes are an open syllable.
+
+this document is a jump straight forward from everything else defined so far intentionally
+
+see dict/noun-extensions for a full list of these as figured so far.
+
+example translation set:
+ I am dog
+   Gy komd'si ("I, doggish")
+     Gy (I) komd (dog) 'si (adjectivising copula)
+ My dog
+   komd Gy'fw ("dog of mine")
+     komd (dog) Gy (I) 'fw (adjectivising genitive)
+ I am my dog
+   Gy komd'si Gy'fwsi ("dog I, of mine")
+     Gy (I) komd (dog) 'si (adjectivising copula) Gy (I) 'fw (adjectivising genitive) 'si (adjectivising copula with apostrophe cut to be attached to other suffix)
+ My dogs
+   komd'je Gy'fwje ("dogs which are mine")
+     komd (dog) 'je (plural) Gy (I) 'fw (adjectivising genitive) 'je (plural, attached for adjective agreement)
+ I am one of and owner of my dogs
+   Gy komd'si fe bymm komd'je Gy'fwje (dog I, of they dogs of mine)
+     im not breaking this one down rn lmao
+ We dogs are mine and our own
+   Gym komd'je Gy'fwsije + gwm'fwsije (We dogs of mine and of ours)
+     also not breaking this one down rn, note the + is the correct indicator for "and"
+
+explicit indicators of number ('je for plural and 'be for singular) must always be the last in the stack. otherwise go mad
