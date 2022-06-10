@@ -1,13 +1,22 @@
 word order is fairly static
 
-constituent order can be described as "SOV", and optionally writers can choose to write in "OVS", as it is not ambiguous and may give more freedom for communicated order. there is no grammatical difference, implied or defined, to these orders.
+constituent order can be described as "SOV", and optionally writers can choose to
+write in "OVS", as it is not ambiguous and may give more freedom for communicated
+order. there is no grammatical difference, implied or defined, to these orders.
 
-noun constituents begin with the noun. adjectives follow in order of descending importance.
+noun constituents begin with the noun. adjectives follow in order of descending
+importance.
 
-verb constituents contain only the verb. adverbs for a verb phrase are placed after the final constituent of that verb.
+verb constituents contain only the verb. adverbs for a verb phrase are placed after
+the final constituent of that verb.
 
-constituents should not be stacked directly within each other to avoid confusion as to whether a new constituent has begun, instead try to establish a shorthand for any constituent phrases that may be required for finishing another constituent, and use that shorthand instead.
+constituents should not be stacked directly within each other to avoid confusion as to
+whether a new constituent has begun, instead try to establish a shorthand for any
+constituent phrases that may be required for finishing another constituent, and use
+that shorthand instead.
 
 negation words come directly after the word they negate.
 
-affirmative statements are just whatever the fuck you want bud. "just fuck me up fam" replied to with "fuck" can be affirmative if your community understands it. go wild, do some shit.
+affirmative statements are just whatever the fuck you want bud. "just fuck me up fam"
+replied to with "fuck" can be affirmative if your community understands it. go wild,
+do some shit.

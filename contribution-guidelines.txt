@@ -1,0 +1,47 @@
+DEFINED PROJECT LANGUAGES:
+ - English (any dialect, synthetic or natural)
+ - French (French Academy for synthetic definitions, phonetic texting forms also accepted)
+ - Mandarin (please phoneticize words before submitting from this language)
+ - Japanese (any dialect, synthetic or natural. romaji preferred for alphabetization)
+ - Russian (any dialect, synthetic or natural, as long as you can prove spelling)
+
+reminder this list is for contributors to know which languages can be used for
+translative definitions. loans can come from anywhere, as long as they can be
+either translated into these languages gracefully, or enough words exist to describe
+them accurately internally.
+
+
+
+PROPER CONTRIBUTION, PER CATEGORY
+
+
+Vocabulary:
+
+Vocabulary contribution should be done in different ways depending on the origin
+of words contributed, and the definability of the words directly against equivalents
+from the defined project languages.
+ - Words with no direct origin externally belong in dict/by-origin-vocab/no-origin
+ - Words with an external origin in construction, but using words in-language,
+   belong in the vocab origin file for the language the construction is from.
+ - Words that are loaned by many languages that define them differently, and become
+   loaned into Typim, should be discussed among community (or just kinkinkijkin, if
+   no community exists) as to where they should be placed
+ - Words loaned retaining source meaning which are not internationally-ambiguous
+   go in the vocab origin file for the language they're from.
+
+as well:
+ - Words which can be translated losslessly to one of the defined project languages,
+   which the contributor knows can be done so, should be defined in this way. If the
+   community presents significant confusion about a word only defined translatively,
+   a descriptive definition in Typim should be provided.
+ - Words which the contributor does not know whether or not they can be defined
+   translatively to a defined project language, should only be defined descriptively.
+   Any word defined *only* descriptively should have a Typim description and at least
+   one description in one of the defined project languages. Expect a lot of english lol
+
+
+Shorthand:
+
+Shorthand contribution should be heavily discussed with people involved before any
+contribution. Shorthand goes in a "shorthand" file, under dict/ for lettering
+shorthand, and under dict/by-origin-vocab/ for vocabulary shorthand.
