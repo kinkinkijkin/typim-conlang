@@ -1,0 +1,32 @@
+this file describes implied phonemes for various graphemes. document uses x-sampa
+
+order in this document is arbitrary currently
+
+Latin
+
+Qq - /k/ or /tS/, stylistic differentiator (from 'c')
+Ww - /9/ as vowel, /w/ as leading consonant
+Ee - /e/
+Rr - /r/ (whatever rhotic)
+Tt - /t/
+Yy - /y/ or /ai/ i dont care
+Uu - /u/
+Ii - /i/
+Oo - /o/
+Pp - /p/
+Aa - any bottom unrounded, i use /A/ but /a/ is fine
+Ss - /s/ or /S/
+Dd - /d/
+Ff - /f/ or /v/ or /P/, stylistic differentiator (from 'v')
+Gg - /g/ or /G/
+Hh - unpronounced, stylistic differentiator (from no h, references origin)
+Jj - /j/
+Kk - /h/ or /x/
+Ll - /l/
+Zz - /z/ or /Z/ or /T/
+Xx - /ks/, stylistic differentiator (from 'cs')
+Cc - /k/ or /tS/
+Vv - /f/ or /v/ or /P/
+Bb - /b/
+Nn - not used, not present in any word
+Mm - /m/ or /n/ or /N/ or /~/ really just any nasal

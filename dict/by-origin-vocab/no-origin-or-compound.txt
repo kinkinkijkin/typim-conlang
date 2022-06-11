@@ -1,0 +1,5 @@
+qeli - warmth/to warm (en)
+vemcoj - negation, strong
+vec - negation, weak
+veqeli - cold/to chill (en)
+
