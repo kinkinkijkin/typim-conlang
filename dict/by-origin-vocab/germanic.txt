@@ -1,6 +1,7 @@
 komd - dog (en) chien (fr) | source: hond/hound/hund
 caz - cheese (en) fromage (fr) | source: kas
-matw - higher point of heirarchal power: ruler/master (en) | source: master
+matw - higher point of heirarchal power (archaic/oppressive):
+       ruler/master (en) | source: master
 wwst - sausage (en) saucisse (fr) wurst (de) | source: wurst
 rat - rat (en) rat (fr) | source: rat
 gwl - child (en) enfant (fr) | source: girl
@@ -13,4 +14,6 @@ explosiv - explosive (en) | source: explosive
 ja - yeah (en) ouais (fr) | source: ja/yea/yeah/ya
 feck - primarily for humour use: true/real (en) vrai (fr) | source: fake/fuck
 fek - fake (en) faux (fr) | source: fake
+fwks - fox (en) | source: fuchs
+gub - endeared, humour-derived: fennec fox (en) | source: goob (2020s en)
 
