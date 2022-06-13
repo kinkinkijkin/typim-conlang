@@ -1,0 +1,4 @@
+tuu - rabbit/bunny (en) lapin (fr) 兔 (cn) | source: 兔  (conceptual)
+subjo - mouse (en) souris (fr) 鼠标 (cn) | source: 鼠标
+lasuu - rat (en, fr) 老鼠 (cn) | source: 老鼠
+
