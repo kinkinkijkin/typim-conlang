@@ -1,3 +1,7 @@
+absi - copula
+absel - specifically within Typim usage: personal name (en)
+selo - nonspecific: personal name (en) // maybe make these two the same word
+forwe - create (en)
 qeli - warmth/to warm (en)
 vemcoj - negation, strong
 vec - negation, weak
@@ -12,4 +16,9 @@ jorcwl - icicle (en) | from "jor" and "cwlim", "long ice"
 cwlti - snow (en) | from "cwlim" and "ti", "small ice"
 cwltiga - snow leopard (en) | from "cwlti" and "gat", "snow cat"
 jorboi - condescending: my better (en) | from "jor" and "boi", "big boy"
+folgy - alive AND conscious AND present
+vefolgy - either unconscious, dissociating, unaware, or unthinking, but not dead
+gidol - dead (en)
+bru - in order to
+galli - have/provide quality
 

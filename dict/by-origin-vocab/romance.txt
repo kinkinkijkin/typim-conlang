@@ -8,4 +8,5 @@ bebi - endeared term: infant/toddler (en) bébé/petit enfant (fr) | source: bab
 fri - true/real (en) vrai (fr) | source: vrai
 peti - physical: small (en) petit (fr) | source: petit
 ti - affix only, physical: small (en) petit (fr) | source: peti, shortened
+em - (elaborate later): in (en) en (fr)
 

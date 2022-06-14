@@ -6,10 +6,11 @@
 
  / CASING/PLACING
 'fw - adjectivising genitive; owner becomes adjective
-'fy - nounising genitive; owner becomes noun (not entirely sure usage)
+'fy - nounising genitive; owner becomes noun if not already, "[verb] for x"
 'si - adjectivising copula; replaces copula verb to make an adjective phrase
 'zu - accusative; also used in copula statements that aren't adjectivised
-'ko - nounizer; represents an adjective or adverb as a noun
+'ko - nounizer; represents a non-noun word as a noun
+'co - produced nounizer: represents a verb as a noun referring to its product
 'bo - adverbiser; indicates that the action is being performed like this noun
 
 / OTHERS
