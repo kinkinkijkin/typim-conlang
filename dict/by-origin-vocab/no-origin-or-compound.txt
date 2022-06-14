@@ -2,4 +2,14 @@ qeli - warmth/to warm (en)
 vemcoj - negation, strong
 vec - negation, weak
 veqeli - cold/to chill (en)
+jorgaa - ferret (en) | from "jor" and "gat", "long cat"
+josuu - endeared: ferret (en) | from "jor" and "asuu", "long racc"
+timus - endeared: deer (en) | from "ti" and "musa", "lil moosy"
+gubti - extremely endeared: fennec fox (en) | from "gub" and "ti", "tiny lil goob"
+qelifl - fire (en) | from "qeli" and "fl", "large warmth"
+cwlim - can be compounded to mean a frozen material: ice (en)
+jorcwl - icicle (en) | from "jor" and "cwlim", "long ice"
+cwlti - snow (en) | from "cwlim" and "ti", "small ice"
+cwltiga - snow leopard (en) | from "cwlti" and "gat", "snow cat"
+jorboi - condescending: my better (en) | from "jor" and "boi", "big boy"
 
