@@ -9,4 +9,6 @@ fri - true/real (en) vrai (fr) | source: vrai
 peti - physical: small (en) petit (fr) | source: petit
 ti - affix only, physical: small (en) petit (fr) | source: peti, shortened
 em - (elaborate later): in (en) en (fr)
+text - verb: text/message/chat (en) taper (fr) | source: text (through english usage)
+free - open/free/unrestricted (en) frais (fr) | source: frais
 

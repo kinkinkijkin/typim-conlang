@@ -1,11 +1,14 @@
 absi - copula
 absel - specifically within Typim usage: personal name (en)
+selvan - general individual, plural implies "the people" as opposed to "the rulers"
 selo - nonspecific: personal name (en) // maybe make these two the same word
 forwe - create (en)
 qeli - warmth/to warm (en)
 vemcoj - negation, strong
 vec - negation, weak
 veqeli - cold/to chill (en)
+picaf - place/location (en)
+bricaf - point of entry | from "bru" and "picaf", "place, in order to (be present)"
 jorgaa - ferret (en) | from "jor" and "gat", "long cat"
 josuu - endeared: ferret (en) | from "jor" and "asuu", "long racc"
 timus - endeared: deer (en) | from "ti" and "musa", "lil moosy"

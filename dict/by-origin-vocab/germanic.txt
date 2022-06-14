@@ -18,4 +18,6 @@ fwks - fox (en) | source: fuchs
 gub - endeared, humour-derived: fennec fox (en) | source: goob (2020s en)
 snep - endeared: snow leopard (en) | source: snep (2020s en)
 tama - period of, not concept: time (en) | source: tima (old english)
+texcat - place for realtime text-based messaging | source: text chat
+mady - basically like a cop but online: moderator (en) | source: matw but fucked up
 
