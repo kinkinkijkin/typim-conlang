@@ -71,6 +71,7 @@ for dir in $dict_loc/*/ ; do
     fi
 done
 
+echo ""
 echo "Finished textfile version"
 
 #TODO: other versions
