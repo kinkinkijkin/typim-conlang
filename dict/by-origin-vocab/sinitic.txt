@@ -8,3 +8,4 @@ suu - endeared/venerating: rat (en, fr) 老鼠 (cn) | source: 鼠 (used to be la
 joram - casual, positive: long/leisurely/long-time (en) 悠然 (cn) | source: 悠然
 jor - affixable: long/distant (en) | source: joram, shortened
 
+

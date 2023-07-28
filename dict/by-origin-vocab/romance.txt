@@ -12,3 +12,4 @@ em - (elaborate later): in (en) en (fr)
 text - verb: text/message/chat (en) taper (fr) | source: text (through english usage)
 free - open/free/unrestricted (en) frais (fr) | source: frais
 
+

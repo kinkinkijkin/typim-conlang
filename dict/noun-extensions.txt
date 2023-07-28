@@ -18,3 +18,5 @@
 'vi - reverence; noun is seen highly by speaker (not formal register, specifically reverent)
 'bii - definitive, non-default form; please use discrete word "bif" unless you need granularity afforded by an attachment (eg "The Great Samuel" but Samuel is just a dude, and The Great is distinct from Samuel)
 'gi - "very"
+
+

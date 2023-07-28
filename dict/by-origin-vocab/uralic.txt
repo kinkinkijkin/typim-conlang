@@ -4,3 +4,4 @@ falt - large (en) gros/grand (fr) | source: faltava, shortened
 fl - affix only: large (en) gros/grand (fr) | source: falt, shortened
 motia - enjoy (en) | source: nauttia
 
+
